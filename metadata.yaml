@@ -1,0 +1,37 @@
+_repo: Grace-Harlowe-s-Overland-Riders-on-the-Lost-River-Trail_62946
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Flower, Jessie Graham
+    - Thompson, Ames
+    - Lester, Pauline
+    - Bates, Gordon
+    - Gordon, Grace
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+    wikipedia: https://en.wikipedia.org/wiki/Jessie_Graham_Flower
+description: ''
+gutenberg_issued: '2020-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62946'
+  lccn: '24025417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (State) -- Description and travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Forest fires -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Bears -- Juvenile fiction'
+- !lcsh 'Outlaws -- Juvenile fiction'
+- !lcsh 'Cowgirls -- Juvenile fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: Grace Harlowe's Overland Riders on the Lost River Trail
+url: http://www.gutenberg.org/ebooks/62946
